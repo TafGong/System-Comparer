@@ -1,4 +1,6 @@
 # System-Comparer
+Csharp Windows Form Application
+
 
 The system compares two text files.
 Among the two text files one is a database text file.
